@@ -86,4 +86,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"y|4h?${}w0}cy6{soT_S"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="Ar_-S3`KMQr.9i*l_Af("><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block><block type="keyonevent" id="J6g:coIg-3a/oLmqu8b^" x="90" y="190"><field name="button">controller.A</field><field name="event">ControllerButtonEvent.Pressed</field></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"y|4h?${}w0}cy6{soT_S"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="Ar_-S3`KMQr.9i*l_Af("><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block><block type="keyonevent" id="J6g:coIg-3a/oLmqu8b^" x="10" y="230"><field name="button">controller.A</field><field name="event">ControllerButtonEvent.Pressed</field></block></xml>
